@@ -7,14 +7,14 @@ This project uses **Principal Component Analysis (PCA)** to construct *eigenport
 ## Key Results
 
 - **Best Sharpe Eigenportfolio**  
-  - CAGR: **102.15%**  
-  - Volatility: **52.91%**  
-  - Sharpe Ratio: **1.74**
+   - CAGR = **72.64%**
+   - Volatility = **35.47%**
+   - Sharpe = **1.77**
 
 - **Best Custom Metric Eigenportfolio**  
-  - CAGR: **160.35%**  
-  - Volatility: **114.74%**  
-  - Sharpe Ratio: **1.31**
+   - CAGR = **72.64%**
+   - Volatility = **35.47%**
+   - Sharpe = **1.77**
 
 - **Dimensionality Reduction**  
   - ~200 principal components explain **99% of the variance** in a dataset of **419 assets**.
